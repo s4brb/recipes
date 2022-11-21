@@ -1,0 +1,11 @@
+body {
+  background-color: lightblue;
+}
+
+.recipe-title {
+  text-transform: uppercase;
+}
+
+p {
+  font-family: Garamond, Georgia, serif;
+}
